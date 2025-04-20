@@ -83,3 +83,9 @@ modules/
 
 # Game resource file
 *.if
+
+# Temporary excluding files used for constructing the program.
+# todo: to remove this section when resource file gets packed
+*.png
+*.jpg
+*.mp3
